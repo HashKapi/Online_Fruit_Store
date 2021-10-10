@@ -1,6 +1,12 @@
 # Online_Fruit_Store
  This is a system developed to update the catalog information with data provided by the suppliers.
 
+## Scope
+* Write a script that summarizes and processes sales data into different categories
+* Generate a PDF using Python
+* Automatically send a PDF by email 
+* Write a script to check the health status of the system 
+
 You'll first need to get the information from the supplier that is currently stored in a Google Drive file.
 The supplier has sent data as large images with an associated description of the products in two files
 (.TIF for the image and .txt for the description).
